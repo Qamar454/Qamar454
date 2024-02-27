@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Qamar,
-- 👀 I’m interested in creating applications & games for mobiles 
-- 🌱 I’m currently learning Machine learning
-- 📫 You can reach me via my email: rajpootqamar889@gmail.com
-
-<!---
-Qamar454/Qamar454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings! I'm Qamar, a seasoned Machine Learning Engineer with a passion for transforming raw data into actionable insights. With over 6 years of hands-on experience, I specialize in Python-driven Data Science and Machine Learning solutions. My commitment to on-time delivery, client satisfaction, and delivering top-quality work sets the foundation for successful collaborations. Let's leverage the power of data together, turning challenges into opportunities and ideas into reality. Welcome to a journey where innovation meets expertise! 🚀
